@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.65f4e1f4.css",
-    "main.js": "/static/js/main.ac319289.js",
-    "index.html": "/index.html",
-    "main.65f4e1f4.css.map": "/static/css/main.65f4e1f4.css.map",
-    "main.ac319289.js.map": "/static/js/main.ac319289.js.map"
+    "main.css": "/harperdb-movies-generator/static/css/main.2d0745da.css",
+    "main.js": "/harperdb-movies-generator/static/js/main.ac319289.js",
+    "index.html": "/harperdb-movies-generator/index.html",
+    "main.2d0745da.css.map": "/harperdb-movies-generator/static/css/main.2d0745da.css.map",
+    "main.ac319289.js.map": "/harperdb-movies-generator/static/js/main.ac319289.js.map"
   },
   "entrypoints": [
-    "static/css/main.65f4e1f4.css",
+    "static/css/main.2d0745da.css",
     "static/js/main.ac319289.js"
   ]
 }
