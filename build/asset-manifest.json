@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react--harpadb-movie-project/static/css/main.2d0745da.css",
+    "main.js": "/react--harpadb-movie-project/static/js/main.ac319289.js",
+    "index.html": "/react--harpadb-movie-project/index.html",
+    "main.2d0745da.css.map": "/react--harpadb-movie-project/static/css/main.2d0745da.css.map",
+    "main.ac319289.js.map": "/react--harpadb-movie-project/static/js/main.ac319289.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d0745da.css",
+    "static/js/main.ac319289.js"
+  ]
+}
